@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CSharp\DZ_Final\bin\Debug\net6.0\DZ_Final.exe
+C:\Users\Admin\Desktop\CSharp\DZ_Final\bin\Debug\net6.0\DZ_Final.deps.json
+C:\Users\Admin\Desktop\CSharp\DZ_Final\bin\Debug\net6.0\DZ_Final.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DZ_Final\bin\Debug\net6.0\DZ_Final.dll
+C:\Users\Admin\Desktop\CSharp\DZ_Final\bin\Debug\net6.0\DZ_Final.pdb
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.dll
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\refint\DZ_Final.dll
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.pdb
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\DZ_Final.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CSharp\DZ_Final\obj\Debug\net6.0\ref\DZ_Final.dll
